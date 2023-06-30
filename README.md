@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mindustry Mod Template
+# Mindustry Mod Templatee
 
 #### *[MGPP](https://plumygames.github.io/mgpp/) helps you to build and debug a Java mod.*
 
